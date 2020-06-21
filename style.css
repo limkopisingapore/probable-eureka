@@ -74,7 +74,7 @@ footer {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 20px;
+  font-size: 25px;
   transition: 0.4s;
 }
 
@@ -91,7 +91,7 @@ footer {
 
 .accordion:after {
   content: '\02795'; /* Unicode character for "plus" sign (+) */
-  font-size: 20px;
+  font-size: 25px;
   color: #777;
   float: right;
   margin-left: 5px;
