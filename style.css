@@ -83,10 +83,11 @@ footer {
 }
 
 .panel {
-  padding: 0 18px;
+  padding: 5px 18px;
   display: none;
   background-color: white;
   overflow: hidden;
+  font-size: 12px;
 }
 
 .accordion:after {
