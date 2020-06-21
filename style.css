@@ -127,3 +127,7 @@ a:hover {text-decoration-color: goldenrod;}
 .middle {font-family:'Source Sans Pro', sans-serif; font-weight:400; font-size:14px; line-height:30px; text-align:left;color:black;}
 .middlea {font-family:'Source Sans Pro', sans-serif; font-weight:400; font-size:14px; line-height:30px; text-align:center;color:black;}
 .credits {font-family:'Source Sans Pro', sans-serif; font-weight:400; font-size:8px; line-height:30px; text-align:left;}
+
+html {
+  scroll-behavior: smooth;}
+
